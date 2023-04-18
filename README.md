@@ -14,7 +14,9 @@ Mi nombre es Nahuel Marin y en los siguientes parrafos estaré explicando todo l
   DEJO TAMBIEN EL LINK DEL NOTEBOOK EN COLAB: https://colab.research.google.com/drive/1CRbCqhW0_ysQLb8ZAjxbISVYa5bJOoVR?usp=sharing
 <p>
   <p>-------------------------------------------------------------------------------------------------<p>
+<p>
 ## **Introducción**
+<p>
 <hr>
 Nos dieron como tarea encarnarnos en un data scientist que tenía como responsabilidad todos los pasos de la cración de una API y un modelo de recomendación de películas. Estos pasos incluían desde hacer un ETL hasta la codificación de la API y creación del modelo de recomendación.
 
