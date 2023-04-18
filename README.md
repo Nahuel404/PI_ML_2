@@ -6,8 +6,13 @@
 ***¡Bienvenidos a la resolución del proyecto individual #1 de la carrera de data de henty!***
 Mi nombre es Nahuel Marin y en los siguientes parrafos estaré explicando todo lo referido al trabajo hecho.
 
-
-
+#### **-------NOTA-------**
+<p>
+  NO PUDE SUBIR BIEN EL REPOSITORIO DEBIDO A PROBLEMAS CON GITHUB ES POR ESO QUE EL CSV UTILIZADO EN TODO EL TRABAJO SE ENCUENTRA EN EL SIGUIENTE LINK:
+  https://drive.google.com/file/d/1V1XPTPV-zXgE47y3XnS1q88YanWu2Vro/view?usp=share_link
+  EL CODIGO DEL MODELO ESTÁ SUJETO A GOOGLE COLAB, SI QUIEREN EJECUTARLO EN LOCAL TENDRÁN QUE HACERLE ALGUNAS MODIFICACIONES.
+  DEJO TAMBIEN EL LINK DEL NOTEBOOK EN COLAB: https://colab.research.google.com/drive/1CRbCqhW0_ysQLb8ZAjxbISVYa5bJOoVR?usp=sharing
+<p>
 ## **Introducción**
 <hr>
 Nos dieron como tarea encarnarnos en un data scientist que tenía como responsabilidad todos los pasos de la cración de una API y un modelo de recomendación de películas. Estos pasos incluían desde hacer un ETL hasta la codificación de la API y creación del modelo de recomendación.
